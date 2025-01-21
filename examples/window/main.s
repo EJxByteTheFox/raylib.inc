@@ -40,7 +40,7 @@ main:
     call EndDrawing
 
     jmp .loopy
-.end
+.end:
 
     call CloseWindow
 
